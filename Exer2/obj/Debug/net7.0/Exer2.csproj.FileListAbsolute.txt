@@ -1,0 +1,15 @@
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.csproj.AssemblyReference.cache
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.AssemblyInfoInputs.cache
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.AssemblyInfo.cs
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Documents\Exer2\bin\Debug\net7.0\Exer2.exe
+C:\Users\Luciana\Documents\Exer2\bin\Debug\net7.0\Exer2.deps.json
+C:\Users\Luciana\Documents\Exer2\bin\Debug\net7.0\Exer2.runtimeconfig.json
+C:\Users\Luciana\Documents\Exer2\bin\Debug\net7.0\Exer2.dll
+C:\Users\Luciana\Documents\Exer2\bin\Debug\net7.0\Exer2.pdb
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.dll
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\refint\Exer2.dll
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.pdb
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\Exer2.genruntimeconfig.cache
+C:\Users\Luciana\Documents\Exer2\obj\Debug\net7.0\ref\Exer2.dll
